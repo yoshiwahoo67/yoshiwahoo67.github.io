@@ -21,4 +21,11 @@ video
     display: block;
     margin: 0 auto;
 }
+iframe
+{
+    display: block;
+    margin: auto;
+    width: 30%;
+    height: 30%;
+}
 
